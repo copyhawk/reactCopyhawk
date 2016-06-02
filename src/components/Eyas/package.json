@@ -1,0 +1,23 @@
+{
+  "name": "Eyas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyhawk/reactCopyhawk"
+  },
+  "description": "A React Component to use Copyhawk on your apps",
+  "keywords": [
+    "Copyhawk",
+    "Content",
+    "CMS",
+    "Content Management",
+    "Copy",
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react-native": "^0.14.2"
+  }
+}
