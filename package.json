@@ -17,7 +17,7 @@
     "ios",
     "android"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "react-native": ">= 0.14.2"
   }
