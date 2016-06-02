@@ -18,6 +18,6 @@
   ],
   "version": "1.0.1",
   "peerDependencies": {
-    "react-native": "^0.14.2"
+    "react-native": ">= 0.14.2"
   }
 }
